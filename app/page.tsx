@@ -124,7 +124,7 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="bg-white border border-slate-200 rounded-lg p-4 flex flex-col h-[600px] sticky top-8">
+            <div className="bg-white border border-slate-200 rounded-lg p-4 flex flex-col h-150 sticky top-8">
               <h3 className="text-lg font-semibold mb-3">Ask about this contract</h3>
               <div className="flex-1 overflow-y-auto space-y-3 mb-3">
                 {chatMessages.length === 0 && (
