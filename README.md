@@ -2,6 +2,8 @@
 
 Next.js UI for ClauseCompass, an AI-powered contract review tool. Upload a contract, see clause-level risk flags, and chat with the document to ask follow-up questions.
 
+**Demo ScreenShot:** ![ClauseCompass demo](./screenshots/clausecompass.png)
+
 **Live app:** https://clausecompass-frontend.vercel.app
 
 **Backend repo:** https://github.com/mansi-patell/clausecompass-backend
